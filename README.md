@@ -16,8 +16,6 @@
 
 ### 🛠️ Competências 
 
-### 🛠️ Competências 
-
 [![Engenharia de Dados](https://img.shields.io/badge/Engenharia%20de%20Dados-blue?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories&q=topic:engenharia-de-dados)
 [![Análise Quantitativa](https://img.shields.io/badge/Análise%20Quantitativa-gold?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories&q=topic:analise-quantitativa)
 [![Infraestrutura](https://img.shields.io/badge/Infraestrutura-orange?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories&q=topic:infraestrutura)

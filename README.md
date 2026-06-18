@@ -19,7 +19,7 @@
 [![Engenharia de Dados](https://img.shields.io/badge/Engenharia%20de%20Dados-blue?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories&q=topic:engenharia-de-dados)
 [![Análise Quantitativa](https://img.shields.io/badge/Análise%20Quantitativa-gold?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories&q=topic:analise-quantitativa)
 [![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories&q=topic:engenharia-de-software)
-[![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-purple?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories)
+[![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-purple?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories&q=topic:inteligencia-artificial)
 
 ---
 
